@@ -26,6 +26,7 @@ dependencies:
   flutter_svg: ^2.0.4
   hexcolor: ^3.0.1
   flutter_screenutil: ^5.7.0
+  pin_code_fields: ^7.4.0
 
 
 dev_dependencies:
@@ -38,7 +39,12 @@ dev_dependencies:
   
   
   flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.12.0
 
+flutter_icons:
+  image_path: 'assets/logos/user_image.png'
+  android: true
+  ios: true
 
 
 
