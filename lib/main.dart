@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:riverpod_app_example/app/ui/dashboard_screen.dart';
+import 'package:riverpod_app_example/app/ui/chat%20gpt%20test/all_animation.dart';
 
 void main() {
   runApp(
@@ -33,7 +33,7 @@ class MyApp extends ConsumerWidget {
       ),
       title: 'Flutter Demo',
       themeMode: themeMode,
-      home: const DashboardScreen(),
+      home: const AnimationScreen(),
     );
   }
 }
